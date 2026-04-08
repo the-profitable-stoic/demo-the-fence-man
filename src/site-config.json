@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "The Fence Man",
+    "phone": "+16154980492",
+    "category": "fence contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Fence Experts",
+      "heroSubline": "Protecting your property with durable, expertly installed fences. Serving Nashville and surrounding areas with pride and precision.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "The Fence Man started with a simple goal: to provide Nashville homeowners and businesses with superior fencing solutions built to last. Founded by a Tennessee native with a passion for craftsmanship, we understand the unique challenges our local climate presents – from the humid summers to the occasional ice storms.",
+        "We believe in doing things right the first time. Our team is committed to using only the highest quality materials and proven installation techniques. We take pride in our work, ensuring every fence we build is strong, secure, and aesthetically pleasing.",
+        "We're more than just a fencing company; we're part of the Nashville community. We believe in giving back, supporting local charities, and building lasting relationships with our clients. When you choose The Fence Man, you're choosing a neighbor who cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation, built to withstand Nashville's weather."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, weather-resistant materials for long-lasting performance and beauty."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We create fences tailored to your property's unique needs and aesthetic preferences."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Nashville's specific fencing challenges and building codes."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your fencing project. Call now!"
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences expertly installed for privacy and beauty.",
+        "description": "We specialize in crafting and installing wood fences that enhance the beauty and security of your property. From traditional picket fences to privacy fences, we offer a wide range of wood options to suit your style and budget. We understand Nashville's unique climate and use pressure-treated lumber to ensure longevity and resistance to rot, insects, and the elements. Our experienced team handles every aspect of the installation process, from precise measurements and post setting to meticulous finishing touches. We take pride in creating wood fences that not only look great but also stand the test of time, adding value and curb appeal to your home.\n\nWhether you're looking to define your property line, create a safe space for children and pets, or simply add a touch of rustic charm, a wood fence from The Fence Man is an excellent choice. We offer a variety of styles, including shadowbox, board-on-board, and split-rail, and can customize your fence with decorative posts, caps, and other accents. We also handle all necessary permits and inspections, ensuring a hassle-free experience for our clients.\n\nWe source our wood from local suppliers, supporting our community and ensuring the highest quality materials. Our commitment to craftsmanship and customer satisfaction is unmatched. Let us help you design and install the perfect wood fence for your Nashville property.",
+        "process": [
+          "Step 1: Consultation & Design – Discuss your needs and choose the perfect style and materials.",
+          "Step 2: Site Preparation – We'll prepare the ground and mark fence lines accurately.",
+          "Step 3: Post Installation – Setting posts securely is crucial for a long-lasting fence.",
+          "Step 4: Fence Construction – Careful assembly and finishing touches for a beautiful result."
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Increased Security",
+          "Improved Curb Appeal",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Nashville's climate?",
+            "answer": "With proper maintenance and pressure-treated lumber, a wood fence can last 15-20 years, even with Nashville's humidity and occasional storms."
+          },
+          {
+            "question": "Do I need a permit to build a fence in Nashville?",
+            "answer": "Yes, most fence installations require a permit in Nashville. We handle the permit process for you, ensuring compliance with all local regulations."
+          },
+          {
+            "question": "What type of wood is best for fences in Nashville?",
+            "answer": "Pressure-treated pine is a popular and cost-effective choice for fences in Nashville. It's resistant to rot, insects, and the elements."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Durable and affordable chain link fences for security and containment.",
+        "description": "For reliable security and containment, a chain link fence is a practical and cost-effective solution. The Fence Man provides professional chain link fence installation services for residential, commercial, and industrial properties in Nashville and the surrounding areas. We use high-quality galvanized steel to ensure maximum durability and resistance to rust and corrosion. Our experienced installers ensure proper tension and alignment for a secure and long-lasting fence.\n\nChain link fences are ideal for a variety of applications, including securing yards, protecting commercial properties, and enclosing athletic fields. They are also a great option for pet containment, providing a safe and secure space for your furry friends to roam. We offer a range of heights and gauges to meet your specific needs, and can also install gates and access control systems for added security.\n\nIn addition to standard galvanized chain link, we also offer vinyl-coated options in a variety of colors to enhance the aesthetic appeal of your fence. Vinyl coating provides added protection against the elements and can blend seamlessly with your landscaping. The Fence Man is committed to providing top-quality chain link fence installation services at competitive prices. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Site Assessment – We evaluate your property and discuss your specific security needs.",
+          "Step 2: Material Selection – Choose the right gauge and height for your chain link fence.",
+          "Step 3: Professional Installation – Our team ensures proper tension and secure anchoring.",
+          "Step 4: Final Inspection – We verify the fence meets our high standards and your satisfaction."
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable and Low-Maintenance",
+          "Effective Containment",
+          "Versatile Applications"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a chain link fence?",
+            "answer": "The installation time depends on the size and complexity of the project, but most chain link fence installations can be completed in 1-2 days."
+          },
+          {
+            "question": "Can I customize my chain link fence?",
+            "answer": "Yes, we offer a variety of customization options, including vinyl coating, different heights, and gate styles."
+          },
+          {
+            "question": "Do you offer warranties on chain link fences?",
+            "answer": "Yes, we offer warranties on both materials and workmanship for our chain link fence installations."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and elegance.",
+        "description": "Enhance your property with a beautiful and durable vinyl fence from The Fence Man. Vinyl fences offer a low-maintenance alternative to wood, providing lasting beauty and elegance without the need for painting, staining, or sealing. We offer a wide variety of vinyl fence styles, including privacy fences, picket fences, and decorative fences, to complement any home or landscape. Our experienced installers ensure precise and secure installation for a fence that will stand the test of time.\n\nVinyl fences are resistant to rot, insects, and the elements, making them an ideal choice for Nashville's climate. They are also easy to clean and maintain, simply requiring occasional washing with soap and water. With a wide range of colors and styles to choose from, you can create a custom look that reflects your personal taste and enhances your property's curb appeal.\n\nThe Fence Man is committed to providing top-quality vinyl fence installation services at competitive prices. We use only the highest quality vinyl materials and employ proven installation techniques to ensure a long-lasting and beautiful fence. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Design Consultation – We help you choose the perfect vinyl fence style and color.",
+          "Step 2: Precise Measurements – Accurate measurements ensure a perfect fit for your property.",
+          "Step 3: Professional Installation – Our team handles every aspect of the installation process with care.",
+          "Step 4: Quality Assurance – We inspect the fence to ensure it meets our high standards."
+        ],
+        "benefits": [
+          "Low-Maintenance",
+          "Durable and Long-Lasting",
+          "Elegant Appearance",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A properly installed vinyl fence can last for 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Is vinyl fencing more expensive than wood fencing?",
+            "answer": "While the initial cost of vinyl fencing may be higher than wood, the long-term cost is often lower due to reduced maintenance requirements."
+          },
+          {
+            "question": "Can vinyl fences be painted?",
+            "answer": "While vinyl fences are designed to maintain their color, they can be painted with a paint specifically designed for vinyl."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and rust-proof aluminum fences for security and style.",
+        "description": "Add a touch of elegance and security to your property with an aluminum fence from The Fence Man. Aluminum fences offer a classic and sophisticated look while providing reliable security and protection. They are also rust-proof and low-maintenance, making them an ideal choice for Nashville's climate. We offer a variety of aluminum fence styles, including ornamental fences, pool fences, and security fences, to meet your specific needs.\n\nAluminum fences are a great option for homeowners who want a beautiful and durable fence without the hassle of painting or staining. They are also a popular choice for pool enclosures, providing a safe and secure barrier around your swimming pool. Our experienced installers ensure precise and secure installation for a fence that will stand the test of time.\n\nThe Fence Man is committed to providing top-quality aluminum fence installation services at competitive prices. We use only the highest quality aluminum materials and employ proven installation techniques to ensure a long-lasting and beautiful fence. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Design and Planning – We'll help you choose the right aluminum fence style.",
+          "Step 2: Site Preparation – Ensuring a level and stable base for your fence.",
+          "Step 3: Professional Installation – Expert installation for lasting beauty and security.",
+          "Step 4: Final Inspection – We make sure everything is perfect before we leave."
+        ],
+        "benefits": [
+          "Rust-Proof",
+          "Low-Maintenance",
+          "Elegant Appearance",
+          "Secure and Durable"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough to keep pets in?",
+            "answer": "Yes, aluminum fences are strong enough to contain most pets, especially when installed with appropriate height and spacing."
+          },
+          {
+            "question": "Can aluminum fences be used around swimming pools?",
+            "answer": "Yes, aluminum fences are a popular choice for pool enclosures because they are rust-proof and meet safety requirements."
+          },
+          {
+            "question": "Do aluminum fences require any maintenance?",
+            "answer": "Aluminum fences require very little maintenance. Occasional washing with soap and water is usually sufficient to keep them looking their best."
+          }
+        ]
+      },
+      {
+        "slug": "farm-fence-installation",
+        "name": "Farm Fence Installation",
+        "shortDescription": "Durable and reliable farm fences for livestock containment.",
+        "description": "Protect your livestock and define your property with a sturdy and reliable farm fence from The Fence Man. We specialize in installing a variety of farm fence styles, including barbed wire fences, woven wire fences, and electric fences, to meet the specific needs of your farm or ranch. Our experienced installers use high-quality materials and proven techniques to ensure a long-lasting and effective fence.\n\nFarm fences are essential for containing livestock, preventing predators from entering your property, and defining property lines. We understand the unique challenges of farm fencing and offer customized solutions to meet your specific needs. Whether you need a fence for cattle, horses, sheep, or other livestock, we can provide a durable and reliable solution.\n\nThe Fence Man is committed to providing top-quality farm fence installation services at competitive prices. We use only the highest quality materials and employ proven installation techniques to ensure a long-lasting and effective fence. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Site Survey and Planning – Understanding your livestock and property layout.",
+          "Step 2: Material Selection – Choosing the right fence type for your animals.",
+          "Step 3: Professional Installation – Secure and reliable fence construction.",
+          "Step 4: Final Inspection – Ensuring the fence meets your specific needs."
+        ],
+        "benefits": [
+          "Livestock Containment",
+          "Predator Protection",
+          "Property Definition",
+          "Durable and Reliable"
+        ],
+        "faq": [
+          {
+            "question": "What type of fence is best for containing cattle?",
+            "answer": "Barbed wire fences and woven wire fences are both effective options for containing cattle."
+          },
+          {
+            "question": "How high should a farm fence be?",
+            "answer": "The height of a farm fence depends on the type of livestock you are containing. A fence for cattle should be at least 48 inches high, while a fence for horses should be at least 54 inches high."
+          },
+          {
+            "question": "Do you offer electric fence installation?",
+            "answer": "Yes, we offer electric fence installation for livestock containment and predator control."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast, reliable fence repair to restore your fence's integrity.",
+        "description": "Don't let a damaged fence compromise your property's security and curb appeal. The Fence Man offers prompt and reliable fence repair services to restore your fence's integrity and functionality. Whether your fence has been damaged by weather, age, or accidents, our experienced technicians can quickly assess the damage and provide effective repairs.\n\nWe repair all types of fences, including wood fences, chain link fences, vinyl fences, and aluminum fences. We use high-quality materials and proven techniques to ensure lasting repairs. Our goal is to provide you with a cost-effective solution that restores your fence to its original condition.\n\nFrom replacing broken posts and panels to repairing gates and latches, we handle all types of fence repairs. We also offer emergency fence repair services for urgent situations. The Fence Man is committed to providing top-quality fence repair services at competitive prices. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Damage Assessment – We thoroughly inspect the fence to identify all issues.",
+          "Step 2: Repair Plan – We'll propose a cost-effective repair solution.",
+          "Step 3: Efficient Repairs – Our team will complete the repairs quickly and effectively.",
+          "Step 4: Quality Check – We ensure the repairs meet our high standards."
+        ],
+        "benefits": [
+          "Restored Security",
+          "Improved Curb Appeal",
+          "Cost-Effective Solution",
+          "Fast and Reliable Service"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations."
+          },
+          {
+            "question": "What types of fences do you repair?",
+            "answer": "We repair all types of fences, including wood fences, chain link fences, vinyl fences, and aluminum fences."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "The Fence Man is proud to offer our expert fence installation and repair services to the residents of Franklin, Tennessee. Known for its charming historic downtown and beautiful antebellum homes, Franklin requires fences that not only provide security and privacy but also complement the area's unique architectural style. We understand the importance of preserving Franklin's aesthetic appeal while providing durable and long-lasting fencing solutions.\n\nOur team has extensive experience working with a variety of fencing materials suitable for Franklin's hot, humid summers, including wood, vinyl, aluminum, and wrought iron. Whether you need a classic picket fence for your historic home, a privacy fence for your backyard, or a decorative fence for your garden, we can help you choose the perfect option to enhance your property and meet your specific needs. We are committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction.",
+        "localContext": "Franklin's historic character demands careful consideration when selecting fencing materials and styles, ensuring new installations blend seamlessly with the existing architecture.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "The Fence Man is your trusted fence contractor in Murfreesboro, Tennessee. As a growing community with many affordable family developments, Murfreesboro residents value reliable and cost-effective fencing solutions. We offer a wide range of fence styles and materials to meet the diverse needs of homeowners in Murfreesboro.\n\nFrom privacy fences for backyard barbecues to decorative fences for front yards, we can help you enhance your property's curb appeal and security. We understand the importance of providing durable and long-lasting fences that can withstand Murfreesboro's hot, humid summers and occasional severe weather. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We provide free estimates and quick installation times for all Murfreesboro residents.",
+        "localContext": "Murfreesboro's family-friendly neighborhoods benefit from fences that provide safety, privacy, and enhance the value of their homes.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Rockvale"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "The Fence Man provides premium fencing services in Brentwood, Tennessee. Known for its luxury estates on wooded lots, Brentwood requires fences that offer both privacy and aesthetic appeal. We specialize in designing and installing high-quality fences that complement the area's upscale properties and enhance their natural beauty.\n\nWe offer a wide range of fencing options, including wood, vinyl, aluminum, and wrought iron, to meet the unique needs of Brentwood homeowners. Whether you need a privacy fence for your backyard oasis, a decorative fence for your estate, or a security fence for your property, we can help you choose the perfect option. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We understand the importance of attention to detail and strive to exceed your expectations.",
+        "localContext": "Brentwood's luxury homes require fences that reflect the area's affluence and blend seamlessly with the natural landscape.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "The Fence Man is proud to serve the residents of Hendersonville, Tennessee. With its beautiful lakefront homes on Old Hickory Lake, Hendersonville residents value fences that enhance their waterfront properties and provide security and privacy. We offer a variety of fencing solutions that are both functional and aesthetically pleasing.\n\nOur team has extensive experience working with a variety of fencing materials suitable for Hendersonville's climate, including vinyl, aluminum, and wood. Whether you need a fence to protect your property from the lake, a privacy fence for your backyard, or a decorative fence for your garden, we can help you choose the perfect option. We are committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We offer free consultations and estimates to all Hendersonville residents.",
+        "localContext": "Hendersonville's lakefront properties require fences that are both durable and visually appealing, enhancing the beauty of the surrounding landscape.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "The Fence Man is your local expert for all fencing needs in Nashville, Tennessee. As a vibrant and diverse city, Nashville requires a wide range of fencing solutions to meet the unique needs of its residents and businesses. We offer a comprehensive selection of fence styles and materials to suit any property, from historic homes to modern developments.\n\nWhether you need a privacy fence for your backyard, a security fence for your business, or a decorative fence for your garden, we can help you choose the perfect option. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We understand the importance of fast, reliable service and strive to exceed your expectations. We are fully licensed and insured for all projects in Nashville.",
+        "localContext": "Nashville's diverse neighborhoods require a wide variety of fencing solutions, reflecting the city's unique character and needs.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Goodlettsville",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "The Fence Man is a leading provider of fence installation and repair services in Smyrna, Tennessee. Smyrna is a growing community with a mix of residential and commercial properties, requiring diverse fencing solutions. We offer a wide range of fence styles and materials to meet the needs of Smyrna residents and businesses.\n\nFrom privacy fences for homes to security fences for businesses, we can help you enhance your property's security and aesthetic appeal. We understand the importance of providing durable and long-lasting fences that can withstand Smyrna's climate. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We offer competitive pricing and flexible scheduling to accommodate your needs.",
+        "localContext": "Smyrna's mix of residential and commercial properties benefits from a variety of fencing options, providing security and enhancing property values.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "The Fence Man is proud to offer our expert fencing services to the residents of Gallatin, Tennessee. As a growing city with a rich history, Gallatin residents value fences that are both functional and aesthetically pleasing. We offer a wide range of fencing options to meet the diverse needs of homeowners and businesses in Gallatin.\n\nWhether you need a privacy fence for your backyard, a decorative fence for your garden, or a security fence for your commercial property, we can help you choose the perfect option. We understand the importance of providing durable and long-lasting fences that can withstand Gallatin's climate. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We offer free estimates and consultations to all Gallatin residents.",
+        "localContext": "Gallatin's blend of historic charm and modern development requires fencing solutions that complement the city's unique character.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "The Fence Man is your trusted fence contractor in La Vergne, Tennessee. As a family-friendly community with a growing population, La Vergne residents value reliable and affordable fencing solutions. We offer a wide range of fence styles and materials to meet the diverse needs of homeowners in La Vergne.\n\nFrom privacy fences for backyards to decorative fences for front yards, we can help you enhance your property's curb appeal and security. We understand the importance of providing durable and long-lasting fences that can withstand La Vergne's climate. Our team is committed to providing exceptional customer service and quality workmanship to ensure your complete satisfaction. We offer fast, friendly service and competitive pricing to all La Vergne residents.",
+        "localContext": "La Vergne's family-oriented community benefits from fences that provide safety, privacy, and enhance the value of their homes.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "The Fence Man is delighted to provide top-notch fencing services to the residents and businesses of Spring Hill, Tennessee. Known for its rapid growth and family-friendly atmosphere, Spring Hill requires reliable and aesthetically pleasing fencing solutions. We offer a wide variety of fence styles and materials to suit any property, from residential homes to commercial establishments.\n\nWhether you're looking for a classic wood privacy fence, a durable vinyl fence, or an elegant aluminum fence, our team can help you choose the perfect option to enhance your property's security and curb appeal. We understand the importance of quality workmanship and customer satisfaction, and we're committed to providing exceptional service to the Spring Hill community.",
+        "localContext": "Spring Hill's expanding neighborhoods need fences that provide security, privacy, and add value to the growing residential areas.",
+        "nearbyAreas": [
+          "Thompson's Station",
+          "Columbia",
+          "Franklin"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "The Fence Man did an amazing job installing our new wood privacy fence. The crew was professional, efficient, and the fence looks fantastic! It really enhances our backyard and gives us the privacy we wanted. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed around our commercial property for security. The Fence Man provided a quick and affordable solution. The installation was smooth, and the fence is exactly what we needed. Good work!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We chose The Fence Man to install a white vinyl picket fence around our front yard. The fence is beautiful and adds so much curb appeal to our home. The installation team was very professional and paid attention to every detail. Very happy with the results!",
+        "date": "2025-04-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "After a recent storm, our wood fence was damaged. The Fence Man came out quickly and repaired the fence perfectly. They were able to match the existing wood and the repairs are seamless. Great service!",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Aluminum Fence Installation",
+        "text": "We had an aluminum fence installed around our pool for safety. The Fence Man did a great job with the installation, the fence looks great and meets all the safety requirements. We highly recommend their services.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Farm Fence Installation",
+        "text": "As a local farmer, I needed help putting up a fence for my cattle. The Fence Man came out and installed a high quality fence, and it was installed very quickly! My cows are happy and so am I!",
+        "date": "2024-07-04"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "The Fence Man | Nashville TN",
+        "description": "Nashville's premier fence contractor. Expert installation & repair for wood, vinyl, chain link, & aluminum fences. Free quotes!"
+      },
+      "about": {
+        "title": "About The Fence Man",
+        "description": "Learn about The Fence Man's commitment to quality fencing in Nashville, TN. Decades of experience, local expertise."
+      },
+      "services": {
+        "title": "Nashville Fence Services",
+        "description": "Comprehensive fence services in Nashville. Wood, vinyl, chain link, aluminum fences. Installation, repair, and maintenance."
+      },
+      "contact": {
+        "title": "Contact The Fence Man",
+        "description": "Contact The Fence Man for fence installation & repair in Nashville. Get a free quote today! Call us at +16154980492"
+      },
+      "reviews": {
+        "title": "The Fence Man Reviews",
+        "description": "Read reviews for The Fence Man. See what our satisfied customers in Nashville say about our fence services."
+      },
+      "service-areas": {
+        "title": "The Fence Man Service Areas",
+        "description": "The Fence Man provides fence services in Nashville, Franklin, Murfreesboro, Brentwood, Hendersonville, TN."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "farm-fence-installation": "/images/service-farm-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "farm-fence-installation": {
+        "src": "/images/service-farm-fence-installation.webp",
+        "srcset": "/images/service-farm-fence-installation-400w.webp 400w, /images/service-farm-fence-installation-800w.webp 800w, /images/service-farm-fence-installation-1200w.webp 1200w, /images/service-farm-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

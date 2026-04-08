@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-the-fence-man.dream-surge.com/sitemap-index.xml
